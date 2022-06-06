@@ -1,2 +1,2 @@
 # Git_test
-my firat Git repo
+my first Git repo
